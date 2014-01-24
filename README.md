@@ -8,4 +8,4 @@ All magic is in **chardet** module.
 Third-party
 =============
 
-[chardet](https://github.com/chardet/chardet)
+Great [chardet](https://github.com/chardet/chardet) library.
